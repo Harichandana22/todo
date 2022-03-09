@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "intern-project-342906": {
+      "hosting": {
+        "todo": [
+          "intern-project-342906"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "intern-project-342906"
+  }
+}
